@@ -1,0 +1,16 @@
+{
+    "name": "ktx-basis-universal",
+    "version": "1.60.0",
+    "description": "Fork of BinomialLLC/basis_universal",
+    "type": "module",
+    "repository": {
+        "type": "git",
+        "url": "git+git@github.com:Oefenweb/ktx-basis-universal.git"
+    },
+    "author": "BinomialLLC",
+    "license": "Apache 2.0",
+    "homepage": "https://github.com/Oefenweb/ktx_basis_universal.git",
+    "files": [
+        "./webgl/transcoder"
+    ]
+}
